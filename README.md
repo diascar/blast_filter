@@ -2,7 +2,7 @@
 
 It is a simple python (python3) script devised to filter and group sequences according to their similarity with reference sequences. The filtering is based on BLAST and LAST results. It also creates a tab delimited file summarizing the results.
 
-# Uage
+# Usage
 
 `python blast_filter.py <identity> <aln_len> <file.blast> <file.fasta> <file.db>`
 
